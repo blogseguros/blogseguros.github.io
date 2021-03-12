@@ -1,10 +1,10 @@
 # Site
 name: "Blog Seguros"
 title: "Blog Seguros"
-description: "Blog sobre seguros"
+description: "Nuevo blog sobre seguros en México"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /blog
+baseurl: ''
 google_analytics:
 disqus:
 mailchimp-list:
