@@ -4,7 +4,7 @@ title: ¿Quién me va a explicar mi seguro?
 permalink: /about
 comments: false
 ---
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/CAMA.jpeg" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/CAMA.jpg" alt="jekyll template mediumish" /></p>
 
 
 <div class="row justify-content-between">
