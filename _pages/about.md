@@ -4,6 +4,8 @@ title: ¿Quién me va a explicar mi seguro?
 permalink: /about
 comments: false
 ---
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/CAMA.jpeg" alt="jekyll template mediumish" /></p>
+
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
@@ -16,7 +18,7 @@ comments: false
 <p>Nuestra historia está llena de éxitos que con gusto te podré compartir, y que sin mi equipo de trabajo no lo hubiera logrado.</p>
 
 <p>Gracias a Iveth, Eddie, y Memo por su gran trabajo, sigamos cosechando éxitos.</p>
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/carlos.jpeg" alt="jekyll template mediumish" /></p>
+
 
 <h4>¿Por qué existimos?</h4>
 
