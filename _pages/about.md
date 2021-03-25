@@ -30,14 +30,33 @@ comments: false
 <p>Hay 3 razones principales:</p>
 
 <p>1. Su perfil académico y experiencia profesional:</p>
+
 <p>Más de 1,000 personas aseguradas anualmente</p>
+
 <p>Rankeado entre los mejores Agentes de Seguros de las mejores Aseguradoras</p>
+
 <p>MBA de Darden School of Business</p>
+
 <p>Ingeniero Industrial del Tec de Monterrey</p>
+
+<p></p>
+
+<p></p>
 
 <p>2. Cree en sus productos y es uno de sus mejores clientes. Te va a interesar conocer cuánto paga al año y qué seguros tiene contratados.</p>
 
-<p>3. Lo mejor: Asesorarte con Carlos Muñiz te cuesta lo mismo que asesorarte con cualquier otro de los 39,999 Agentes de Seguros, porque todos ganamos la misma comisión por vender un seguro.</p>
+<p></p>
+
+<p></p>
+
+<p>3. Lo mejor: Asesorarte con Carlos Muñiz te cuesta lo mismo que asesorarte con cualquier otro de los 39,999 Agentes de Seguros, porque todos reciben la misma comisión por vender un seguro.</p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
 
 </div>
 
