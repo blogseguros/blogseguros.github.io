@@ -51,12 +51,7 @@ comments: false
 
 <p>3. Lo mejor: Asesorarte con Carlos Muñiz te cuesta lo mismo que asesorarte con cualquier otro de los 39,999 Agentes de Seguros, porque todos reciben la misma comisión por vender un seguro.</p>
 
-<p></p>
 
-<p></p>
-
-<p></p>
-<h4></h4>
 
 </div>
 
