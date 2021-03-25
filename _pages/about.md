@@ -24,12 +24,27 @@ comments: false
 
 <p>Queremos que nuestros Asegurados y Aseguradoras hablen el mismo idioma.</p>
 
+
+<h4>Hay 40,000 Agentes de Seguros en México. ¿Por qué escuchar a Carlos Muñiz?</h4>
+
+<p>Hay 3 razones principales:</p>
+
+<p>1. Su perfil académico y experiencia profesional:</p>
+<p>Más de 1,000 personas aseguradas anualmente</p>
+<p>Rankeado entre los mejores Agentes de Seguros de las mejores Aseguradoras</p>
+<p>MBA de Darden School of Business</p>
+<p>Ingeniero Industrial del Tec de Monterrey</p>
+
+<p>2. Cree en sus productos y es uno de sus mejores clientes. Te va a interesar conocer cuánto paga al año y qué seguros tiene contratados.</p>
+
+<p>3. Lo mejor: Asesorarte con Carlos Muñiz te cuesta lo mismo que asesorarte con cualquier otro de los 39,999 Agentes de Seguros, porque todos ganamos la misma comisión por vender un seguro.</p>
+
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Te explico tu seguro, no te va a costar</h5>
+<h5>Iniciemos con una explicación, no te va a costar</h5>
   
 <p><i class="far fa-envelope"></i> CMuniz@GuiasAsesores.com</p>
 <p>55 5414 4744 (Whatsapp)</p>
