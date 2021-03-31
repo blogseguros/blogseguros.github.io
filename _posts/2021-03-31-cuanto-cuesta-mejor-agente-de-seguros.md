@@ -19,7 +19,7 @@ Hay 2 motivos por los que tomé este camino y sigo en el:
 
 2. Frank Genovese, un profesor que tuve en la Universidad de Virginia mientras estudié mi MBA dijo: Vayan a industrias en donde no haya demasiados MBA´s. Le doy toda la razón, sobre todo porque a estas alturas de mi carrera puedo decir que he pasado más tiempo generando valor para mis clientes en lugar de estar en un ambiente tan competitivo que en ocasiones los intereses personales están por encima de generar valor para los clientes.
 
-¿Cuánto cobra el mejor abogado? ¿Cuánto cobra el mejor fiscalista? ¿Cuánto cobra el mejor futbolista?
+¿Cuánto cobra el mejor abogado? ¿Cuánto cobra el mejor fiscalista? ¿Cuánto cobra el mejor médico?
 
 Ellos cobran lo que quieren, porque los clientes los buscan en situaciones de urgencia y cuándo tu futuro está de por medio ¿a quién quieres de tu lado?
 
