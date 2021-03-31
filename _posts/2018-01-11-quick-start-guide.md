@@ -6,6 +6,7 @@ categories: [ seguros ]
 image: assets/images/3.jpg
 featured: true
 hidden: true
+published: false
 ---
 
 Aqui el contendio del post
