@@ -9,6 +9,7 @@ description: "Nuestro score sobre el producto de AXA"
 featured: true #true para que salga en Novedades
 hidden: true #false para que salga en Todos
 rating: 4.5
+published: false
 ---
 
 Se pueden hacen reviews y poner estrellitas
