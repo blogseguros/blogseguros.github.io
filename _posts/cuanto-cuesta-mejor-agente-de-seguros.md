@@ -2,11 +2,10 @@
 layout: post
 title:  "¿Cuánto cuesta tener al mejor Agente de Seguros?"
 author: Carlos
-categories: [ seguros ]
+categories: [seguros]
 image: assets/images/sharkvsclown.png
 featured: true
 hidden: 
-published: true
 ---
 Este primer texto explica una de nuestras principales fortalezas. 
 
