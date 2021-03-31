@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El mejor Agente de Seguros: ¿Cuánto cuesta y dónde lo encuentro?"
+title:  "El mejor Agente de Seguros: ¿En dónde lo encuentro y cuánto me va a cobrar?"
 author: carlos
 categories: [seguros, agente de seguros, asesoría]
 description: "Como encontrar al mejor agente de seguros"
@@ -8,11 +8,10 @@ image: assets/images/sharkvsclown.png
 featured: true
 hidden: false
 ---
-Este primer texto explica una de nuestras principales fortalezas. 
 
-¿Qué imagen te viene a la mente cuándo piensas en un vendedor? ¿y cuando ese vendedor es de seguros?
+¡Cuando sea grande, quiero ser Agente de Seguros! (Not)
 
-En Agosto 2010, cuando yo inicié mi carrera de seguros, todo mi tiempo lo dedicaba a reunirme con mis conocidos y platicarles sobre mi nuevo negocio, porque así es como me enseñaron a vender. De todos ellos, incluyendo familia y amigos, ninguno me felicitó por mi decisión.
+En Agosto 2010, cuando yo inicié mi carrera en seguros, todo mi tiempo lo dedicaba a reunirme con mis conocidos y platicarles sobre mi nuevo negocio, porque así es como me enseñaron a vender. De todos ellos, incluyendo familia y amigos, ninguno me felicitó por mi decisión.
 
 Hay 2 motivos por los que tomé este camino y sigo en el:
 
