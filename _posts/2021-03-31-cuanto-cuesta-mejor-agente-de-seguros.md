@@ -27,7 +27,7 @@ Ellos cobran lo que quieren, porque los clientes los buscan en situaciones de ur
 
 Porque un seguro se compra cuando no se necesita, es decir no hay urgencia. Si estás en una situación de urgencia, probablemente sea muy tarde para contratar un seguro.
 
-¿Cómo identificar a un buen <a href="https://explicamiseguro.com/about"style="color: #FF8C00">Agente de Seguros</a>?
+¿Cómo identificar a un buen <a href="https://explicamiseguro.com/about" style="color: #FF8C00">Agente de Seguros</a>?
 
 Yo creo que es muy fácil, pídele que te enseñe los seguros que tiene contratados y te explique por qué los contrató.
 
@@ -38,3 +38,16 @@ Finalmente, respondiendo a la pregunta inicial: El mejor <a href="https://explic
 Mi sugerencia, busca a un Agente que haya llegado a este negocio para quedarse y cuestiona sus conocimientos, porque la calidad de la asesoría no la vas a percibir al momento de contratar, se va a reflejar hasta el momento de ocupar tu seguro y esto con toda certeza te va a ahorrar (o costar) millones de pesos.
 
 Gracias por leerme, ojalá nos podamos conocer.
+
+
+<div class="col-md-4">
+
+<div class="sticky-top sticky-top-80">
+<h5>Iniciemos con una explicación, no te va a costar</h5>
+  
+<p><i class="far fa-envelope"></i> CMuniz@GuiasAsesores.com</p>
+<p>55 5414 4744 (Whatsapp)</p>
+<p>Escríbeme y programamos una llamada</p>
+
+</div>
+</div>
