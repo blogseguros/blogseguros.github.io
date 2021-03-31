@@ -4,6 +4,7 @@ title:  "Comparando seguros de auto"
 author: carlos
 categories: [ seguros, autos ]
 image: assets/images/1.jpeg
+published: false
 ---
 Contenido del post aquí.
 Se puede colocar una o más imágenes para el post.
