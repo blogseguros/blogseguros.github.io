@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "¿Cuánto cuesta tener al mejor Agente de Seguros?"
-author: Carlos
+title:  "El mejor Agente de Seguros: ¿Cuánto cuesta y dónde lo encuentro?"
+author: carlos
 categories: [seguros, agente de seguros, asesoría]
 description: "Como encontrar al mejor agente de seguros"
 image: assets/images/sharkvsclown.png
