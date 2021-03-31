@@ -18,18 +18,20 @@ authors:
     display_name: Carlos Muñiz
     avatar: 'assets/images/AutorCAMA.jpg'
     gravatar: ''
-    email: ''
-    web: ''
-    twitter: ''
+    email: 'CMuniz@GuiasAsesores.com'
+    web: 'www.guiasasesores.com'
+    twitter: '@explicamiseguro'
+    facebook: 'Guiasasesores'
     description: 'Yo te explico tu seguro.'
   juan:
     name: Autor 2
     display_name: Autor2
     avatar: 'assets/images/autor2.jpeg'
     gravatar: ''
-    email: ''
+    email: 'CMuniz@GuiasAsesores.com'
     web: ''
-    twitter: ''
+    twitter: 'https://twitter.com/explicamiseguro'
+    facebook: 'GuiasAsesores'
     description: ''
 
 # Plugins
