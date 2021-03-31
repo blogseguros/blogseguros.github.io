@@ -4,6 +4,7 @@ title:  "Aquí otro ejemplo"
 author: juan
 categories: [ guías ]
 image: assets/images/4.jpg
+published: false
 ---
 
 #### en las variables se asigna un título. ejemplo:
