@@ -8,7 +8,8 @@ image: assets/images/ahorraenimpuestos.jpg
 featured: true
 hidden: false
 ---
-¿Cómo reducir tus impuestos en tu declaración anual?
+
+¡Quiero pagar menos impuestos y que no me persiga SAT!
 
 En este mes nos damos cuenta de la cantidad de dinero que pagamos al SAT  y es muy común que nos preguntemos ¿se pueden pagar menos impuestos?
 
