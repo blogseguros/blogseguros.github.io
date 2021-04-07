@@ -26,7 +26,7 @@ Una persona física puede aprovechar sus seguros para reducir sus impuestos de l
 
 ¿Por dónde comenzar?
 
-Tenemos esquemas super funcionales, que dependerán mucho del plazo y cantidad que quieras ahorrar. Este es un buen test para tu <a href="https://explicamiseguro.com/about" style="color: #FF8C00">Agente de Seguros</a>, pregúntale ¿cómo funcionan estos planes? ¿qué beneficios fiscales tienen? ¿cuál tienes contratado?.
+Tenemos esquemas super funcionales, que dependerán mucho del plazo y cantidad que quieras ahorrar. Este es un buen test para tu <a href="https://explicamiseguro.com/about" style="color: #FF8C00">Agente de Seguros</a>, pregúntale ¿cómo funcionan estos planes? ¿qué beneficios fiscales tienen? ¿cuál tiene contratado?.
 
 Si no tienes seguro de gastos médicos, considero que es el paso 1 porque si quieres ahorrar lo primero es estar sano para poder generar ingresos.
 
@@ -47,7 +47,6 @@ Artículo 151 Ley ISR
 3. Intereses reales devengados y efectivamente pagados por créditos hipotecarios destinados a casa habitación, siempre que el crédito otorgado no exceda las 750mil udis.
 
 4.  Pago por impuestos locales por salarios, cuya tasa no exceda 5%.
-Donativos otorgados a instituciones autorizadas para recibirlos.
 
 5. Gasto en Educación: Colegiaturas en instituciones privadas con validez oficial de estudios, por los siguientes montos máximos anuales: Preescolar (14,200 pesos), Primaria (12,900 pesos), Secundaria ( 19,900 pesos), Profesional técnico (17,100 pesos), Bachillerato o equivalente (24,500 pesos).
 
@@ -58,15 +57,12 @@ Donativos otorgados a instituciones autorizadas para recibirlos.
 <b>8. Aportaciones complementarias de retiro. El monto máximo autorizado es del 10% del ingreso anual del contribuyente, hasta un máximo de 5 UMAs</b>
 
 <br>
-<br>
 Artículo 185 Ley ISR
 
 <b>1. Pagos de primas de contratos de seguro que tengan como base planes de pensiones relacionados con la edad, jubilación, o retiro. El importe de la prima no podrá exceder los 152 mil pesos anuales. </b>
 
 <br>
-<br>
-
-Cuestiona a tu <a href="https://explicamiseguro.com/about" style="color: #FF8C00">Agente de Seguros</a>, esto es conocimiento básico para una buena asesoría.
+Si cuentas con un buen <a href="https://explicamiseguro.com/about" style="color: #FF8C00">Agente de Seguros</a>, pregúntale, esto es conocimiento básico para una buena asesoría. Y si su respuesta no te convence...
 
 
 <div class="col-md-4">
