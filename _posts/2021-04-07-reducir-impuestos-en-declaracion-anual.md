@@ -15,7 +15,7 @@ En este mes nos damos cuenta de la cantidad de dinero que pagamos al SAT  y es m
 
 Una persona física puede aprovechar sus seguros para reducir sus impuestos de la siguiente forma:
 
-1. Seguro de gastos médicos mayores, en conjunto con las otras deducciones personales del Artículo 151 (lo detallo más abajo): hasta 15% de tu ingreso anual, máximo 5 UMA (aprox 160mil pesos anuales).
+1. Seguro de gastos médicos mayores, en conjunto con las otras deducciones personales del Artículo 151 (puntos 1 a 6, los detallo más abajo): hasta 15% de tu ingreso anual, máximo 5 UMA (aprox 160mil pesos anuales).
 
 2. Aportaciones a planes personales de retiro: hasta 10% de tu ingreso anual, máximo 5 UMA (aprox 160mil pesos anuales).
 
@@ -40,9 +40,7 @@ Si quieres conocer el detalle de lo que una persona física puede deducir en la 
 
 Artículo 151 Ley ISR
 
-1. Los siguientes gastos en Salud (aplica para lo que gastes en ti, tu cónyuge, concubino(a), padres, abuelos, hijos, y nietos):
-
-Honorarios médicos, dentales, a enfermeras, y servicios profesionales en materia de psicología y nutrición, gastos hospitalarios, medicamentos dentro del hospital, análisis y estudios clíncos, aparatos de rehabilitación, prótesis, lentes ópticos graduados, y <b>primas por seguros de gastos médicos</b>.
+1. Los siguientes gastos en Salud (aplica para lo que gastes en ti, tu cónyuge, concubino(a), padres, abuelos, hijos, y nietos): Honorarios médicos, dentales, a enfermeras, y servicios profesionales en materia de psicología y nutrición, gastos hospitalarios, medicamentos dentro del hospital, análisis y estudios clíncos, aparatos de rehabilitación, prótesis, lentes ópticos graduados, y <b>primas por seguros de gastos médicos</b>.
 
 2. Gastos funerarios (aplica para lo que gastes en tu cónyuge, concubino(a), padres, abuelos, hijos, y nietos).
 
@@ -51,12 +49,9 @@ Honorarios médicos, dentales, a enfermeras, y servicios profesionales en materi
 4.  Pago por impuestos locales por salarios, cuya tasa no exceda 5%.
 Donativos otorgados a instituciones autorizadas para recibirlos.
 
-5. Gasto en Educación
-Colegiaturas en instituciones privadas con validez oficial de estudios, por los siguientes montos máximos anuales: Preescolar (14,200 pesos), Primaria (12,900 pesos), Secundaria ( 19,900 pesos), Profesional técnico (17,100 pesos), Bachillerato o equivalente (24,500 pesos).
+5. Gasto en Educación: Colegiaturas en instituciones privadas con validez oficial de estudios, por los siguientes montos máximos anuales: Preescolar (14,200 pesos), Primaria (12,900 pesos), Secundaria ( 19,900 pesos), Profesional técnico (17,100 pesos), Bachillerato o equivalente (24,500 pesos).
 
 6. Transporte escolar, solo si es obligatorio.
-
-El total de gastos de los puntos 1 a 6 no podrá exceder el 15% del total de los ingresos del contribuyente, hasta un máximo de 5 UMAs.
 
 7. Donativos otorgados a instituciones autorizadas para recibirlos. El monto de los donativos no excederá de 7% de los ingresos acumulables que sirvieron para calcular el ISR.
 
