@@ -5,7 +5,7 @@ author: carlos
 categories: [seguros, agente de seguros, asesoría]
 description: "Como encontrar al mejor agente de seguros"
 image: assets/images/sharkvsclown.png
-featured: true
+featured: false
 hidden: false
 ---
 
