@@ -11,7 +11,7 @@ hidden: false
 
 ¡El ahorro a largo plazo es una beca! ¿o piensas que con 3-5mil pesos mensuales puedes lograr algo más importante que esto?
 
-La realidad es que lograr una beca y tener un ahorrro para la educación son la combinación perfecta para sobresalir en la vida profesional.
+La realidad es que lograr una beca y tener un ahorro para la educación son la combinación perfecta para sobresalir en la vida profesional.
 
 Para obtener la mejor preparación académica es necesario que nuestros hijos puedan ir a la escuela que quieran, tengan las credenciales mínimas para ser admitidos, y dominar alguna habilidad que los ayude a ser diferentes de los demás.
 
