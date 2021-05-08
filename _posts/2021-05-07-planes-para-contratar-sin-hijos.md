@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "¿Cómo reducir impuestos en tu declaración anual?"
+title:  "COMO GARANTIZAR UNA BUENA CALIDAD DE VIDA CON TUS SEGUROS"
 author: carlos
 categories: [ahorro, invalidez, inversión]
-description: "COMO GARANTIZAR UNA BUENA CALIDAD DE VIDA CON TUS SEGUROS"
+description: "¿QUÉ SEGUROS DEBO CONTRATAR PARA APROVECHARLOS AL MÁXIMO?"
 image: assets/images/ahorro.jpg
 featured: true
 hidden: false
