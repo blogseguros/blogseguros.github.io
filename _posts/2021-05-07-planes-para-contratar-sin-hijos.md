@@ -35,7 +35,7 @@ Yo, obligado a creer en lo que vendo, contraté mi primer plan a los 28 años, m
 
 A los 31 años, aún sin hijos, contraté otro plan, aquí estuve analizando varias opciones y concluí que el plazo a 15 años era el mejor para mi, y en este año cubriré la octava anualidad.
 
-¿Qué me hizo contratar estos planes?
+<b> ¿Qué me hizo contratar estos planes? </b>
 
 1. Que a esto me dedico y hay que poner el ejemplo.
 2. Que gastaba en cosas innecesarias.
