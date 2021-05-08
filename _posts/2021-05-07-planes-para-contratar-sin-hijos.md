@@ -11,7 +11,7 @@ hidden: false
 
 Algunos eventos recientes me han hecho analizar la forma en que he ido armando mi esquema de seguros para prevenir sorpresas desagradables, y en las siguientes 5 publicaciones lo compartiré como parte de mi reflexión y por si es de utilidad.
 
-La vida personal de un adulto se divide en 5 fases desde el punto de vista de riesgos:
+<b> La vida personal de un adulto se divide en 5 fases desde el punto de vista de riesgos: </b>
 
 1. Controlar mis gastos y prepararme para un evento que me impida generar ingresos.
 2. Lo anterior y además garantizar un ingreso para mis dependientes si yo no puedo generar.
@@ -21,7 +21,7 @@ La vida personal de un adulto se divide en 5 fases desde el punto de vista de ri
 
 Esta primera publicación hablará brevemente sobre los riesgos cuando no tenemos hijos.
 
-Esta etapa inicia cuando empezamos a percibir ingresos, ya que desde antes de ganarnos el dinero ya estamos pensando ¡¡¡¿en qué nos lo vamos a gastar?!!!
+Esta etapa inicia cuando empezamos a percibir ingresos, ya que desde antes de ganarnos el dinero ya estamos pensando <b>¡¡¡¿en qué nos lo vamos a gastar?!!!</b>
 
 Lo mejor es buscar en que gastarlo, demostrar que ya ganamos dinero, y una vez que compramos lo que queríamos, lo siguiente es buscar algo más en que gastar. 
 
@@ -31,7 +31,7 @@ Revisas un par de opciones, alguien te ofrece una inversión con rendimiento de 
 
 Así pasa la vida de muchos, y el ahorro que era insignificante mes a mes, se convierte en una realidad que te impide lograr cosas importantes cuando llega el momento.
 
-Yo, obligado a creer en lo que vendo, contraté mi primer plan a los 28 años, más tarde de lo que debía sobre todo porque en mis dos años de Maestría no percibía ingresos, aunque habiendo planeado bien ni la Maestría me lo habría impedido. Este primer plan fue a 20 años, y ya van 11.
+Yo, <b>obligado a creer en lo que vendo</b>, contraté mi primer plan a los 28 años, más tarde de lo que debía sobre todo porque en mis dos años de Maestría no percibía ingresos, aunque habiendo planeado bien ni la Maestría me lo habría impedido. Este primer plan fue a 20 años, y ya van 11.
 
 A los 31 años, aún sin hijos, contraté otro plan, aquí estuve analizando varias opciones y concluí que el plazo a 15 años era el mejor para mi, y en este año cubriré la octava anualidad.
 
