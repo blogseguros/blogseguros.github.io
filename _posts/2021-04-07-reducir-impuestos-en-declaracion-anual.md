@@ -5,7 +5,7 @@ author: carlos
 categories: [asesoría, impuestos, retiro, vida]
 description: "Como pagar menos impuestos a través de seguros"
 image: assets/images/ahorraenimpuestos.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
