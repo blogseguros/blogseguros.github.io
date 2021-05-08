@@ -48,7 +48,7 @@ En las siguientes publicaciones hablaré de la etapa 2.
 Si quieres conocer a detalle las razones que me convencieron a contratar estos planes, escríbeme y platicamos.
 
 <br>
-Si cuentas con un buen <a href="https://explicamiseguro.com/about" style="color: #FF8C00">Agente de Seguros</a>, pregúntale, esto es conocimiento básico para una buena asesoría. Y si su respuesta no te convence...
+Si cuentas con un buen <a href="https://explicamiseguro.com/about" style="color: #FF8C00">Agente de Seguros</a>, pregúntale ¿a qué edad debe una persona contratar su primer seguro de ahorro y qué coberturas debe tener?, esto es conocimiento básico para una buena asesoría. Y si su respuesta no te convence...
 
 
 <div class="col-md-4">
